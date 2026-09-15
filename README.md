@@ -2,7 +2,7 @@
 Addon that adds armament and other stuff to your aircraft in GeoFS
 Original by somebody somewhere, published unchanged by amateurtheairbus.
 
-If you are the creator of this addon please create an issue or reach out to me on discord, I will give you full attribution. I only published this because I couldn't find a safe and documented version of this on Github. 
+If you are the creator of this addon please create an issue or reach out to me on discord, I will give you full attribution and/or do anything you request regarding this. I only published this because I couldn't find a safe and documented version of this on Github. 
 
 How to install:
   1. Download the Tampermonkey Chrome extension from the Chrome Web Store. Also works on chromium-based browsers like Helium.
